@@ -80,15 +80,15 @@ body {
 		visibility: hidden;
 	}
 
-	
+	.navbar-brand h1{
+		font-size: 5vw;}
 
 }
 @media (min-width: 992px){
 	#bs-example-navbar-collapse-1{
 		visibility: hidden;
 	}
-	.navbar-brand h1{
-		font-size: 5vw;}
+	
 	
 	
 }
